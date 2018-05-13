@@ -1,6 +1,6 @@
 {
   "name": "@omnislug/zh",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Omnislug Chinese language files",
   "main": "index.js",
   "directories": {
