@@ -1,0 +1,16 @@
+{
+  "name": "@omnislug/zh",
+  "version": "0.0.1",
+  "description": "Omnislug Chinese language files",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omnislug/zh.git"
+  },
+  "author": "Derek Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omnislug/zh/issues"
+  },
+  "homepage": "https://github.com/omnislug/zh#readme"
+}

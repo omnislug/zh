@@ -1,0 +1,5 @@
+/**/.DS_Store
+node_modules/
+data/Mandarin.dat.txt
+data/data_map.json
+data/*.py
