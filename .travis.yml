@@ -1,0 +1,13 @@
+env:
+  global:
+  - SH=bash
+language: node_js
+node_js:
+- node
+cache:
+  directories:
+  - node_modules
+  - data
+os:
+- linux
+- osx
